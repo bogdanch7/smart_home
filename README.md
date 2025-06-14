@@ -5,12 +5,19 @@ Acest proiect reprezintă un sistem complet funcțional de casă inteligentă, r
 
 ## Funcționalități
 Permiterea accesului în funcție de distanță (<150 cm) – afișarea opțiunii de login doar în apropierea ușii
+
 Modalități multiple de autentificare: prin tastatură fizică (PIN), tag RFID sau direct din browser
+
 Dashboard senzori: temperatură, umiditate, gaz, flacără, distanță, cameră video
+
 Streaming video în timp real (ESP32-CAM) integrat în interfața web
+
 Feedback sonor (buzzer) pentru accesul permis sau respins
+
 Afișaj local pe LCD I2C pentru mesajele și stările sistemului
+
 Interfață web responsive pentru control și monitorizare
+
 Transmisie de date serială între Arduino Mega și ESP32
 
 ---
