@@ -31,7 +31,7 @@ Cameră OV2640 (ESP32-CAM) – streaming video integrat
 
 ---
 
-## Biblioteci utilizate:
+## Biblioteci utilizate
 
 SPI.h, MFRC522.h, Keypad.h, DHT.h, Wire.h, LiquidCrystal_I2C.h, WiFi.h, WebServer.h
 
