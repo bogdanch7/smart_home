@@ -38,17 +38,17 @@ Cameră OV2640 (ESP32-CAM) – streaming video integrat
 ## Modul de funcționare
 Accesul inițial: activat doar dacă senzorul detectează prezența la <150 cm
 
-# Autentificare:
+## Autentificare:
 Keypad – cod presetat (ex. 0000)
 Browser PIN – form online
 RFID – autentificare pe bază de UID
 
-# Dashboard:
+## Dashboard:
 Acces la date în timp real de la senzori
 Streaming video live prin iframe
 Mesaje dinamice și actualizări automate
 
-# Transmiterea datelor:
+## Transmiterea datelor:
 Arduino trimite periodic informații către ESP32 prin Serial1
 ESP32 actualizează pagina web la fiecare câteva secunde
 Rulare & configurare
