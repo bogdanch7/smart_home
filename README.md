@@ -24,16 +24,26 @@ Transmisie de date serială între Arduino Mega și ESP32
 
 ## Componente utilizate
 Arduino Mega 2560 – colectează datele de la senzori și gestionează autentificarea
+
 ESP32 – server web + comunicare cu Arduino + integrare cameră
+
 Senzori:
 DHT11 – temperatură și umiditate
+
 MQ-2 – detecție gaze
+
 HC-SR04 – măsurare distanță
+
 Senzor IR flacără
+
 Tastatură 4x4 – introducere cod PIN
+
 Modul RFID RC522 – autentificare cu tag-uri RFID
+
 Buzzer – notificări sonore
+
 LCD 16x2 cu I2C – afișare locală a stărilor sistemului
+
 Cameră OV2640 (ESP32-CAM) – streaming video integrat
 
 ---
@@ -56,15 +66,22 @@ RFID – autentificare pe bază de UID
 
 ## Dashboard
 Permite accesul la datele citite în timp real de senzori
+
 Streaming video live prin iframe
+
 Mesaje dinamice și actualizări automate
 
 ## Transmiterea datelor
 Realizarea legăturilor fizice între componente, conform schemei Fritzing
+
 Încărcarea codurilor în Arduino Mega și ESP32
+
 Setare rețelei Wi-Fi în codul ESP32 (SSID + parolă)
+
 Accesarea interfeței web din browser, folosind IP-ul afișat de ESP32
+
 Arduino trimite periodic informații către ESP32 prin Serial1
+
 ESP32 actualizează pagina web la fiecare 5 secunde
 
 ---
