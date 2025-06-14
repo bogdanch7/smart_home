@@ -98,7 +98,7 @@ Afișarea valorilor citite de senzori
 ![IMG-20250529-WA0063](https://github.com/user-attachments/assets/9601a8a1-39c7-44c6-acf7-3bc4f7a41a6c)
 Afișarea valorii temperaturii
 
-![IMG-20250529-WA0063](https://github.com/user-attachments/assets/c199c052-56cd-4e3a-bccc-0c10bc1fffd9)
+![IMG-20250529-WA0065](https://github.com/user-attachments/assets/62b04703-cf9e-482f-ba0c-4687680ea5b1)
 ![IMG-20250529-WA0056](https://github.com/user-attachments/assets/eb03a51a-c585-4e31-96bb-e9fb639630d3)
 Stările senzorului de gaz
 
@@ -122,6 +122,7 @@ Exemplificarea modului de funcționare a camerei video
 
 ## Realizat de
 Proiect realizat de [bogdanch7](https://github.com/bogdanch7)
+
 An universitar 2024–2025
 
 ---
