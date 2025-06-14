@@ -42,7 +42,9 @@ Accesul inițial: activat doar dacă senzorul detectează prezența la <150 cm
 
 ## Autentificare
 Keypad – cod presetat (ex. 0000)
+
 Browser PIN – form online
+
 RFID – autentificare pe bază de UID
 
 ## Dashboard
