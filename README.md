@@ -40,17 +40,17 @@ SPI.h, MFRC522.h, Keypad.h, DHT.h, Wire.h, LiquidCrystal_I2C.h, WiFi.h, WebServe
 ## Modul de funcționare
 Accesul inițial: activat doar dacă senzorul detectează prezența la <150 cm
 
-## Autentificare:
+## Autentificare
 Keypad – cod presetat (ex. 0000)
 Browser PIN – form online
 RFID – autentificare pe bază de UID
 
-## Dashboard:
+## Dashboard
 Permite accesul la datele citite în timp real de senzori
 Streaming video live prin iframe
 Mesaje dinamice și actualizări automate
 
-## Transmiterea datelor:
+## Transmiterea datelor
 Realizarea legăturilor fizice între componente, conform schemei Fritzing
 Încărcarea codurilor în Arduino Mega și ESP32
 Setare rețelei Wi-Fi în codul ESP32 (SSID + parolă)
