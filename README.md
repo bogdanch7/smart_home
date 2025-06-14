@@ -28,6 +28,7 @@ Arduino Mega 2560 – colectează datele de la senzori și gestionează autentif
 ESP32 – server web + comunicare cu Arduino + integrare cameră
 
 Senzori:
+
 DHT11 – temperatură și umiditate
 
 MQ-2 – detecție gaze
