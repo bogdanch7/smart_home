@@ -62,7 +62,11 @@ Accesare interfață web din browser, folosind IP-ul afișat de ESP32
 ---
 
 ## Capturi
+
 (Capturile pot include imagini precum: pagina de login, acces permis/respins, dashboard senzori, valori senzor, flux video etc.)
+![image](https://github.com/user-attachments/assets/202beb63-b97a-48a2-9021-af4b537dc553)
+
+
 
 ---
 
@@ -75,5 +79,4 @@ An universitar 2024–2025
 
 ## Licență
 
-Acest proiect este creat pentru uz educațional și nu are scop comercial.
-
+Acest proiect este creat pentru uz educațional.
