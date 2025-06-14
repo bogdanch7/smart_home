@@ -64,11 +64,13 @@ Accesare interfață web din browser, folosind IP-ul afișat de ESP32
 ## Capturi
 
 (Capturile pot include imagini precum: pagina de login, acces permis/respins, dashboard senzori, valori senzor, flux video etc.)
-![image](https://github.com/user-attachments/assets/202beb63-b97a-48a2-9021-af4b537dc553)
+![IMG-20250529-WA0006](https://github.com/user-attachments/assets/81f64fd6-d36c-42c1-b81c-480f87ef3d47)![IMG-20250529-WA0011](https://github.com/user-attachments/assets/e18ce6e9-aaad-4ea9-8916-0845a5aa3e6e)
+
 
 
 
 ---
+
 
 ## Realizat de
 
